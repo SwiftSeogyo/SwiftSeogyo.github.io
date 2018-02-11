@@ -13,10 +13,10 @@
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
-- ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ @kevin
+- ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => @kevin
 - [Transforming collections in Swift](https://www.swiftbysundell.com/posts/transforming-collections-in-swift)
 - [Mocking in Swift](https://www.swiftbysundell.com/posts/mocking-in-swift)
-- ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ @jay
+- ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ => [@jay 일급 함수](https://swiftseogyo.github.io/swift/2018/02/06/first-class-functions-in-swift.html)
 - [Wrapping up 2017 on Swift by Sundell](https://www.swiftbysundell.com/posts/wrapping-up-2017-on-swift-by-sundell)
 - [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
 - [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift)
