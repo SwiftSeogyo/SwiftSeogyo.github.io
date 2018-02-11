@@ -27,7 +27,7 @@
 - [Avoiding force unwrapping in Swift unit tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 - [Using tokens to handle async Swift code](https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code)
-- [Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)
+- [Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures) => @jay
 - [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code)
 - [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
 - [Using generic type constraints in Swift 4](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4)
