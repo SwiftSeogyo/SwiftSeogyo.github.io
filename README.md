@@ -64,3 +64,5 @@
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/posts/swift-sequences-the-art-of-being-lazy)
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
 - [Providing a unified Swift error API](https://www.swiftbysundell.com/posts/providing-a-unified-swift-error-api)
+
+### [Swift tips & tricks](https://github.com/JohnSundell/SwiftTips)
