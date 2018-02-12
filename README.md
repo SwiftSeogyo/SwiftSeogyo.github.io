@@ -13,10 +13,10 @@
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
 - [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
-- ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => @kevin
+- ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => by Kevin, 2018-02-06
 - [Transforming collections in Swift](https://www.swiftbysundell.com/posts/transforming-collections-in-swift)
 - [Mocking in Swift](https://www.swiftbysundell.com/posts/mocking-in-swift)
-- ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ => [@jay 일급 함수](https://swiftseogyo.github.io/swift/2018/02/06/first-class-functions-in-swift.html)
+- ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ => [일급 함수](https://swiftseogyo.github.io/swift/2018/02/06/first-class-functions-in-swift.html) by Jay, 2018-02-06
 - [Wrapping up 2017 on Swift by Sundell](https://www.swiftbysundell.com/posts/wrapping-up-2017-on-swift-by-sundell)
 - [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
 - [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift)
@@ -27,7 +27,7 @@
 - [Avoiding force unwrapping in Swift unit tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)
 - [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
 - [Using tokens to handle async Swift code](https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code)
-- [Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures) => @jay
+- [Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures) => 클로저의 객체 캡처링 by Jay, 2018-02-13
 - [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code)
 - [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
 - [Using generic type constraints in Swift 4](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4)
@@ -35,7 +35,7 @@
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
 - [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
-- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)
+- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift) by William, 2018-02-13
 - [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
 - [Best of the first 6 months of Swift by Sundell](https://www.swiftbysundell.com/posts/best-of-the-first-6-months-of-swift-by-sundell)
 - [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
