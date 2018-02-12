@@ -1,6 +1,6 @@
 # 스위프트 서교
 
-스위프트 스터디@서교동
+스위프트 서교는 서울특별시 마포구 서교동을 기반으로 하는 스위프트 스터디입니다.
 
 ## 구성원
 
@@ -35,7 +35,7 @@
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
 - [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
-- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift) by William, 2018-02-13
+- [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift) => by William, 2018-02-13
 - [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
 - [Best of the first 6 months of Swift by Sundell](https://www.swiftbysundell.com/posts/best-of-the-first-6-months-of-swift-by-sundell)
 - [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
