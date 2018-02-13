@@ -12,7 +12,8 @@
 
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
-- [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)
+- [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
+- [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift) => by Kevin, 2018-02-13
 - ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => by Kevin, 2018-02-06
 - [Transforming collections in Swift](https://www.swiftbysundell.com/posts/transforming-collections-in-swift)
 - [Mocking in Swift](https://www.swiftbysundell.com/posts/mocking-in-swift)
