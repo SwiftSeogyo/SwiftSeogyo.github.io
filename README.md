@@ -20,13 +20,13 @@
 - ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ => [일급 함수](https://swiftseogyo.github.io/swift/2018/02/06/first-class-functions-in-swift.html) by Jay, 2018-02-06
 - [Wrapping up 2017 on Swift by Sundell](https://www.swiftbysundell.com/posts/wrapping-up-2017-on-swift-by-sundell)
 - [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
-- [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift)
+- [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift) => by Jay
 - [UI testing analytics code in Swift](https://www.swiftbysundell.com/posts/ui-testing-analytics-code-in-swift)
 - [Building an enum-based analytics system in Swift](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
 - [Using unit tests to identify & avoid memory leaks in Swift](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [Avoiding force unwrapping in Swift unit tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)
-- [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
+- [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift) => by Jay
 - [Using tokens to handle async Swift code](https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code)
 - ~[Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)~ => [클로저의 객체 캡처링](https://swiftseogyo.github.io/swift/2018/02/13/capturing-objects-in-swift-closures.html) by Jay, 2018-02-13
 - [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code)
@@ -39,7 +39,7 @@
 - ~[Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)~ => by William, 2018-02-13
 - [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
 - [Best of the first 6 months of Swift by Sundell](https://www.swiftbysundell.com/posts/best-of-the-first-6-months-of-swift-by-sundell)
-- [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift)
+- [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift) => by Jay
 - [Reducing flakiness in Swift tests](https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests)
 - [Building a declarative animation framework in Swift - Part 2](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2)
 - [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1)
@@ -60,7 +60,7 @@
 - [Handling non-optional optionals in Swift](https://www.swiftbysundell.com/posts/handling-non-optional-optionals-in-swift)
 - [Namespacing Swift code with nested types](https://www.swiftbysundell.com/posts/namespacing-swift-code-with-nested-types)
 - [Testing Swift code that uses system singletons in 3 easy steps](https://www.swiftbysundell.com/posts/testing-swift-code-that-uses-system-singletons-in-3-easy-steps)
-- [Simple Swift dependency injection with functions](https://www.swiftbysundell.com/posts/simple-swift-dependency-injection-with-functions)
+- [Simple Swift dependency injection with functions](https://www.swiftbysundell.com/posts/simple-swift-dependency-injection-with-functions) => by Jay
 - [Improving Swift compile times](https://www.swiftbysundell.com/posts/improving-swift-compile-times)
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/posts/swift-sequences-the-art-of-being-lazy)
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
