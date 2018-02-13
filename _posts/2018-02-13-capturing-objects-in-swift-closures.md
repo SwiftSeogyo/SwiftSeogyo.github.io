@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "클로저의 객체 캡처링(Capturing objects in Swift closures)"
-date:   2018-02-13 11:00:00 +0900
+date:   2018-02-13 10:00:00 +0900
 categories: swift
 ---
 
