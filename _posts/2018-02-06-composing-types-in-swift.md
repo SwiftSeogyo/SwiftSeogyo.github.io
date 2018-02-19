@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Composing types in Swift"
-date:   2018-02-06 10:00:00 +0900
+title: "Composing types in Swift"
+date: 2018-02-06 10:00:00 +0900
+author: Kevin
 categories: swift
 ---
 

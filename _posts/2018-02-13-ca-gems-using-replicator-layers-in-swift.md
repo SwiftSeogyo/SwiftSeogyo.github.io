@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Core Animation gems: Using replicator layers in Swift"
-date:   2018-02-13 10:00:00 +0900
+title: "Core Animation gems: Using replicator layers in Swift"
+date: 2018-02-13 10:00:00 +0900
+author: William
 categories: swift
 ---
 

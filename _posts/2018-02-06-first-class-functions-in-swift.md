@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "일급 함수(First class functions in Swift)"
-date:   2018-02-06 10:00:00 +0900
+title: "일급 함수(First class functions in Swift)"
+date: 2018-02-06 10:00:00 +0900
+author: Jay
 categories: swift
 ---
 

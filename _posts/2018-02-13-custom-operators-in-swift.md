@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Custom operators in Swift"
-date:   2018-02-13 10:00:00 +0900
+title: "Custom operators in Swift"
+date: 2018-02-13 10:00:00 +0900
+author: Kevin
 categories: swift
 ---
 
