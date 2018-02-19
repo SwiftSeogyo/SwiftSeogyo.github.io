@@ -5,7 +5,7 @@ date:   2018-02-13 10:00:00 +0900
 categories: swift
 ---
 
-*원문: [First class functions in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)*
+*원문: [Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)*
 
 ---
 
