@@ -17,7 +17,7 @@ Core Animation은 CALayer단에서 더 낮은 수준의 랜더링을 수행할 �
 
 liveView는 `PlaygroundPage.current.liveView`에 view를 셋팅해서 사용합니다.
 
-liveView 랜더링을 종료하려면 
+liveView 랜더링을 종료하려면
 PlaygroundPage.finishExecution를 호출합니다.
 
 
