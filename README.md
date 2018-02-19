@@ -61,7 +61,7 @@
 - [Handling non-optional optionals in Swift](https://www.swiftbysundell.com/posts/handling-non-optional-optionals-in-swift)
 - [Namespacing Swift code with nested types](https://www.swiftbysundell.com/posts/namespacing-swift-code-with-nested-types)
 - [Testing Swift code that uses system singletons in 3 easy steps](https://www.swiftbysundell.com/posts/testing-swift-code-that-uses-system-singletons-in-3-easy-steps)
-- [Simple Swift dependency injection with functions](https://www.swiftbysundell.com/posts/simple-swift-dependency-injection-with-functions) => by Jay
+- ~[Simple Swift dependency injection with functions](https://www.swiftbysundell.com/posts/simple-swift-dependency-injection-with-functions)~ => [스위프트 서교 by Jay, 2018-02-20](https://swiftseogyo.github.io/swift/2018/02/20/simple-swift-dependency-injection-with-functions.html)
 - [Improving Swift compile times](https://www.swiftbysundell.com/posts/improving-swift-compile-times)
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/posts/swift-sequences-the-art-of-being-lazy)
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
