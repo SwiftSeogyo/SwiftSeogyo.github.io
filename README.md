@@ -12,7 +12,10 @@
 
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
-- [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)
+- [Using tuples as lightweight types in Swift](https://www.swiftbysundell.com/posts/using-tuples-as-lightweight-types-in-swift)
+- [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
+- [Code encapsulation in Swift](https://www.swiftbysundell.com/posts/code-encapsulation-in-swift)
+- [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift) => by Jay
 - [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
 - ~[Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)~ => [스위프트 서교 by Kevin, 2018-02-13](https://swiftseogyo.github.io/swift/2018/02/13/custom-operators-in-swift.html)
 - ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => [스위프트 서교 by Kevin, 2018-02-06](https://swiftseogyo.github.io/swift/2018/02/06/composing-types-in-swift.html)
@@ -65,6 +68,6 @@
 - [Improving Swift compile times](https://www.swiftbysundell.com/posts/improving-swift-compile-times)
 - [Swift sequences: The art of being lazy](https://www.swiftbysundell.com/posts/swift-sequences-the-art-of-being-lazy)
 - [Type erasure using closures in Swift](https://www.swiftbysundell.com/posts/type-erasure-using-closures-in-swift)
-- [Providing a unified Swift error API](https://www.swiftbysundell.com/posts/providing-a-unified-swift-error-api)
+- ~[Providing a unified Swift error API](https://www.swiftbysundell.com/posts/providing-a-unified-swift-error-api)~ => [스위프트 서교 by Jay, 2018-03-13](https://swiftseogyo.github.io/swift/2018/03/13/providing-a-unified-swift-error-api.html)
 
 ### [Swift tips & tricks](https://github.com/JohnSundell/SwiftTips)
