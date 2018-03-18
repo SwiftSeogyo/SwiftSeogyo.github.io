@@ -4,9 +4,9 @@
 
 ## 구성원
 
-- Kevin
-- Jay
-- William
+- Kevin [[GitHub](https://github.com/kevinkwon)]
+- Jay [[GitHub](https://github.com/ririsid)]
+- William [[GitHub](https://github.com/SeungIlWoo)]
 
 ## 참조
 
@@ -15,7 +15,7 @@
 - [Using tuples as lightweight types in Swift](https://www.swiftbysundell.com/posts/using-tuples-as-lightweight-types-in-swift)
 - [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
 - [Code encapsulation in Swift](https://www.swiftbysundell.com/posts/code-encapsulation-in-swift)
-- [Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift) => by Jay
+- ~[Navigation in Swift](https://www.swiftbysundell.com/posts/navigation-in-swift)~ => [스위프트 서교 by Jay, 2018-03-20](https://swiftseogyo.github.io/swift/2018/03/20/navigation-in-swift.html)
 - [Unit testing asynchronous Swift code](https://www.swiftbysundell.com/posts/unit-testing-asynchronous-swift-code)
 - ~[Custom operators in Swift](https://www.swiftbysundell.com/posts/custom-operators-in-swift)~ => [스위프트 서교 by Kevin, 2018-02-13](https://swiftseogyo.github.io/swift/2018/02/13/custom-operators-in-swift.html)
 - ~[Composing types in Swift](https://www.swiftbysundell.com/posts/composing-types-in-swift)~ => [스위프트 서교 by Kevin, 2018-02-06](https://swiftseogyo.github.io/swift/2018/02/06/composing-types-in-swift.html)
@@ -61,7 +61,7 @@
 - [Picking the right way of failing in Swift](https://www.swiftbysundell.com/posts/picking-the-right-way-of-failing-in-swift)
 - [Time traveling in Swift unit tests](https://www.swiftbysundell.com/posts/time-traveling-in-swift-unit-tests)
 - [Building a command line tool using the Swift Package Manager](https://www.swiftbysundell.com/posts/building-a-command-line-tool-using-the-swift-package-manager)
-- [Handling non-optional optionals in Swift](https://www.swiftbysundell.com/posts/handling-non-optional-optionals-in-swift)
+- [Handling non-optional optionals in Swift](https://www.swiftbysundell.com/posts/handling-non-optional-optionals-in-swift) => by Jay
 - [Namespacing Swift code with nested types](https://www.swiftbysundell.com/posts/namespacing-swift-code-with-nested-types)
 - [Testing Swift code that uses system singletons in 3 easy steps](https://www.swiftbysundell.com/posts/testing-swift-code-that-uses-system-singletons-in-3-easy-steps)
 - ~[Simple Swift dependency injection with functions](https://www.swiftbysundell.com/posts/simple-swift-dependency-injection-with-functions)~ => [스위프트 서교 by Jay, 2018-02-20](https://swiftseogyo.github.io/swift/2018/02/20/simple-swift-dependency-injection-with-functions.html)
