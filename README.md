@@ -52,7 +52,7 @@
 - [Modelling state in Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift)
 - [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift)
 - [Writing unit tests in Swift playgrounds](https://www.swiftbysundell.com/posts/writing-unit-tests-in-a-swift-playground)
-- [Exploring the new String API in Swift 4](https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4)
+- ~[Exploring the new String API in Swift 4](https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4)~ => [스위프트 서교 by William, 2018-03-20](https://swiftseogyo.github.io/swift/2018/03/20/exploring-the-new-string-api-in-swift-4.html)
 - [A deep dive into Grand Central Dispatch in Swift](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
 - [Using @autoclosure when designing Swift APIs](https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis)
 - [Getting started with Xcode UI testing in Swift](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)
