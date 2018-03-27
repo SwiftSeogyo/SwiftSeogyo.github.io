@@ -12,6 +12,8 @@
 
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
+- [Feature flags in Swift](https://www.swiftbysundell.com/posts/feature-flags-in-swift)
+- [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [Using tuples as lightweight types in Swift](https://www.swiftbysundell.com/posts/using-tuples-as-lightweight-types-in-swift)
 - [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift)
 - [Code encapsulation in Swift](https://www.swiftbysundell.com/posts/code-encapsulation-in-swift)
@@ -23,25 +25,25 @@
 - [Mocking in Swift](https://www.swiftbysundell.com/posts/mocking-in-swift)
 - ~[First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift)~ => [스위프트 서교 by Jay, 2018-02-06](https://swiftseogyo.github.io/swift/2018/02/06/first-class-functions-in-swift.html)
 - [Wrapping up 2017 on Swift by Sundell](https://www.swiftbysundell.com/posts/wrapping-up-2017-on-swift-by-sundell)
-- [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift)
+- [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift) => by Jay
 - [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift) => by Jay
 - [UI testing analytics code in Swift](https://www.swiftbysundell.com/posts/ui-testing-analytics-code-in-swift)
 - [Building an enum-based analytics system in Swift](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift)
 - [Using unit tests to identify & avoid memory leaks in Swift](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift)
 - [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift)
 - [Avoiding force unwrapping in Swift unit tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests)
-- [Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift) => by Jay
-- [Using tokens to handle async Swift code](https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code)
+- ~[Dependency injection using factories in Swift](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)~ => [스위프트 서교 by Jay, 2018-03-27](https://swiftseogyo.github.io/swift/2018/03/27/dependency-injection-using-factories-in-swift.html)
+- [Using tokens to handle async Swift code](https://www.swiftbysundell.com/posts/using-tokens-to-handle-async-swift-code) => by Jay
 - ~[Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures)~ => [스위프트 서교 by Jay, 2018-02-13](https://swiftseogyo.github.io/swift/2018/02/13/capturing-objects-in-swift-closures.html)
 - [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code)
-- [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift)
+- [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift) => by Jay
 - [Using generic type constraints in Swift 4](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4)
 - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
-- [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)
+- [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift) => by Jay
 - ~[Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)~ => [스위프트 서교 by William, 2018-02-13](https://swiftseogyo.github.io/swift/2018/02/13/ca-gems-using-replicator-layers-in-swift.html)
-- [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols)
+- [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols) => by Jay
 - [Best of the first 6 months of Swift by Sundell](https://www.swiftbysundell.com/posts/best-of-the-first-6-months-of-swift-by-sundell)
 - [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift) => by Jay
 - [Reducing flakiness in Swift tests](https://www.swiftbysundell.com/posts/reducing-flakiness-in-swift-tests)

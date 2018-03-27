@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 통합된 에러 API 만들기(Providing a unified Swift error API)"
+title: 통합된 에러 API 만들기(Providing a unified Swift error API)
 date: 2018-03-13 10:00:00 +0900
 author: Jay
 categories: swift
