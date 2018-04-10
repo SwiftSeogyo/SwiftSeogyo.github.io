@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "공유 상태를 막기 위한 팩토리 패턴 사용(Using the factory pattern to avoid shared state in Swift)"
-date: 2018-03-27 10:00:00 +0900
+date: 2018-04-10 10:00:00 +0900
 author: Jay
 categories: swift
 ---
