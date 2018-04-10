@@ -12,6 +12,8 @@
 
 ### [Swift by Sundell](https://www.swiftbysundell.com)
 
+- [Using the builder pattern in Swift](https://www.swiftbysundell.com/posts/using-the-builder-pattern-in-swift)
+- [Conditional conformances in Swift](https://www.swiftbysundell.com/posts/conditional-conformances-in-swift)
 - [Feature flags in Swift](https://www.swiftbysundell.com/posts/feature-flags-in-swift)
 - [Preventing views from being model aware in Swift](https://www.swiftbysundell.com/posts/preventing-views-from-being-model-aware-in-swift)
 - [Using tuples as lightweight types in Swift](https://www.swiftbysundell.com/posts/using-tuples-as-lightweight-types-in-swift)
@@ -41,7 +43,7 @@
 - [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift)
 - [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift)
 - [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
-- [Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift) => by Jay
+- ~[Using the factory pattern to avoid shared state in Swift](https://www.swiftbysundell.com/posts/using-the-factory-pattern-to-avoid-shared-state-in-swift)~ => [스위프트 서교 by Jay, 2018-04-10](https://swiftseogyo.github.io/swift/2018/04/10/using-the-factory-pattern-to-avoid-shared-state-in-swift.html)
 - ~[Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift)~ => [스위프트 서교 by William, 2018-02-13](https://swiftseogyo.github.io/swift/2018/02/13/ca-gems-using-replicator-layers-in-swift.html)
 - [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols) => by Jay
 - [Best of the first 6 months of Swift by Sundell](https://www.swiftbysundell.com/posts/best-of-the-first-6-months-of-swift-by-sundell)
